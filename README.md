@@ -1,4 +1,5 @@
-# bin2mat
+# BIN2MAT
+![Neural BIN2MAT project logo](/brain-visualization.jpg)
 
 bin2mat is a Python program that converts binary neural scanning files to MAT files compatible with MATLAB. It provides functionality for both continuous data storage and spike extraction.
 
